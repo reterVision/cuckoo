@@ -1,0 +1,13 @@
+{
+	"ImportPath": "github.com/reterVision/cuckoo",
+	"GoVersion": "go1.5.1",
+	"Packages": [
+		"./..."
+	],
+	"Deps": [
+		{
+			"ImportPath": "github.com/stretchr/testify/assert",
+			"Rev": "e4ec8152c15fc46bd5056ce65997a07c7d415325"
+		}
+	]
+}
